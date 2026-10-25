@@ -646,7 +646,7 @@
     <tr>
       <td style="vertical-align: middle;"><a href="https://applore.app/app-icon-generator">APPLORE</a></td>
       <td style="vertical-align: middle;">Export every iOS, macOS, Android (adaptive/themed) and web/PWA icon size from one image, in the browser</td>
-      <td style="text-align: center; vertical-align: middle;">Free Tier: icon size export, PNG to SVG trace and App Store screenshot generator are free; AI tools are paid (from $9.99/mo)</td>
+      <td style="text-align: center; vertical-align: middle;">Free Tier: icon size export, PNG to SVG trace and App Store screenshot generator are free; AI tools use credits (paid plans from $9.99/mo)</td>
       <td style="text-align: right; vertical-align: middle;">🟢</td>
     </tr>
   </tbody>
